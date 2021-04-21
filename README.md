@@ -1,6 +1,6 @@
 # Online Complaint Portal for University
 
-This project was a part of my Software engineering course. I have designed an online portal for managemnt of complaints relating to different departments of my university namely:
+This project was a part of my Software engineering course. I have designed an online portal for management of complaints relating to different departments of my university namely:
 - University
 - Hostel
 - Canteen
