@@ -1,0 +1,100 @@
+
+
+/*-------------------------------Main code   INDEX ---------------------------------------------------------*/
+
+
+html, body {
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+	background-image: url("dtu-2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.wrapper
+{
+	height: 660px;
+	width: 1320px;
+	position: center;
+	
+
+	 
+	/*background-color: red;*/
+}
+header
+{   
+	
+	height: 100px;
+	width: 1200x;
+	background-color: #000000 ;
+	opacity: .8;
+	
+}
+ nav
+ {
+ 	
+ 	margin: 0px;
+ 	word-spacing: 3px;
+ 	padding: 20px;
+ }
+
+ nav li
+ {
+ 	display: inline-block;
+ 	word-spacing: 3px;
+ 	line-height: 80px;
+
+ }
+section
+{
+	height: 550px;
+
+   
+	width: 1361px;
+	
+}
+
+.logo
+{
+	float :left;
+	padding-left: 5px;
+
+}
+.logo img 
+{
+	padding-left: 70px;
+	height : 100px;
+	width: 150px;
+}
+
+li a
+{
+	color: white;
+	text-decoration: none;
+}
+
+
+section .sec_img
+{
+	height: 700px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	text-align: center;
+	
+
+}
+.box
+{
+	height: 300px;
+	width: 800px;
+	background-color: #030002;
+	margin: 3px auto;
+	opacity: .7;
+	color: white;
+}
+

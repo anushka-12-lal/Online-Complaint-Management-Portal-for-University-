@@ -1,0 +1,73 @@
+
+/*--------------------------------st_login-----------------------------*/
+
+.log_img 
+{
+	height: 600px;
+	width:1400px;
+	margin-top: 0px;
+	background-image: url("bg2.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.box1
+{
+	height: 350px;
+	width: 400px;
+	background-color: black;
+	margin: 70px auto;
+	opacity: .8;
+	color: white;
+	padding: 20px;
+}
+
+form .login
+{
+	margin: auto 50px;
+}
+.center {
+  margin: 0;
+  position: absolute;
+  top: 67%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+input
+{
+	height: 25px;
+	width: 300px;
+
+}
+/*------------------------------st_registration--------------------*/
+
+.reg_img
+{
+	height: 600px;
+	width:1400px;
+	margin:0px;
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.box2
+{
+	height: 500px;
+	width: 400px;
+	background-color: #00001a;
+	margin: 0px auto;
+	opacity: .7;
+	color: white;
+	padding: 20px;
+}
+
+.center1{
+  margin: 0;
+  position: absolute;
+  bottom: 5%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
