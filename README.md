@@ -17,6 +17,5 @@ When the student logs in, he/she can view the status of their filed complaints a
 The admin on the other hand can review, verify and update the status of the received complaints. 
 
 Demo
-
-https://drive.google.com/drive/folders/1DdkauW_JWLIhw_Qpdb3sqQ4kwk31mWWf
+https://drive.google.com/drive/folders/1DdkauW_JWLIhw_Qpdb3sqQ4kwk31mWWf?usp=sharing
  
